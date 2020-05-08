@@ -1,0 +1,124 @@
+body{
+padding: 0;
+margin: 0;
+font-family: 'Poppins', sans-serif;
+}
+
+h1{
+  text-align: center;
+  width: 50%;
+  margin: auto;
+  font-weight: 200;
+  color: #283148;}
+
+h3{
+  margin: 20 30px 10 30px;
+  padding-left: 30px;
+  color: #283148;
+}
+ p{
+   color: #c5c5c5;
+   font-size: 15px;
+ }
+
+/*///////////////////////CLASS SELCTORS/////////////////////////////////////*/
+
+.top-para{
+  text-align: center;
+width: 525px;
+margin: auto;
+}
+
+.head2{
+  font-weight: 600;
+  color: #222831;
+}
+
+.heading{
+margin: auto;
+padding: 70px 0 30px 0;
+}
+
+.para{
+  margin: auto;
+  padding-bottom: 30px;
+}
+
+.supervisor{
+  width: 340px;
+  height: 225px;
+  position: absolute;
+  left: 100px;
+  top: 430px;
+  border-style: solid none none none;
+  border-color: cyan;
+  border-radius: 5px;
+  box-shadow: 3px 3px 30px #b3bfcc;
+}
+
+.team{
+  width: 340px;
+  height: 225px;
+  margin: 40px auto 20px auto;
+  position: absolute;
+  top: 270px;
+  left: 465px;
+  border-style: solid none none none;
+  border-color: red;
+  border-radius: 5px;
+  box-shadow: 3px 3px 30px #b3bfcc;
+}
+
+.karma{
+  width: 340px;
+  height: 225px;
+  position: absolute;
+  top: 560px;
+  left: 465px;
+  border-style: solid none none none;
+  border-color: orange;
+  border-radius: 5px;
+  margin-bottom: 50px;
+  box-shadow: 3px 3px 30px #b3bfcc;
+}
+
+.calculator{
+  width: 340px;
+  height: 225px;
+  position: absolute;
+  top: 430px;
+  right: 100px;
+  border-style: solid none none none;
+  border-color: blue;
+  border-radius: 5px;
+  box-shadow: 3px 3px 30px #b3bfcc;
+}
+
+.boxtext{
+  width:260px;
+  line-height: 2;
+  margin: 0 20px 0 30px;
+  font-size: 12px;
+
+}
+
+.foot{
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: purple;
+  margin-top: 50px;
+}
+
+.attribution{
+  text-align: center;
+  width: 35%;
+  margin: auto;
+}
+
+.img{
+position: absolute;
+right: 20px;
+bottom: 20px;
+}
